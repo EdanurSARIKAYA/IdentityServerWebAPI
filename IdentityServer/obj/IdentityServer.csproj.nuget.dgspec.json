@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edanr\\Desktop\\IdentityServer1\\IdentityServer\\IdentityServer.csproj": {}
+    "C:\\Users\\edanr\\Desktop\\IdentityServer2\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edanr\\Desktop\\IdentityServer1\\IdentityServer\\IdentityServer.csproj": {
+    "C:\\Users\\edanr\\Desktop\\IdentityServer2\\IdentityServer\\IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edanr\\Desktop\\IdentityServer1\\IdentityServer\\IdentityServer.csproj",
+        "projectUniqueName": "C:\\Users\\edanr\\Desktop\\IdentityServer2\\IdentityServer\\IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "C:\\Users\\edanr\\Desktop\\IdentityServer1\\IdentityServer\\IdentityServer.csproj",
+        "projectPath": "C:\\Users\\edanr\\Desktop\\IdentityServer2\\IdentityServer\\IdentityServer.csproj",
         "packagesPath": "C:\\Users\\edanr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edanr\\Desktop\\IdentityServer1\\IdentityServer\\obj\\",
+        "outputPath": "C:\\Users\\edanr\\Desktop\\IdentityServer2\\IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edanr\\AppData\\Roaming\\NuGet\\NuGet.Config",

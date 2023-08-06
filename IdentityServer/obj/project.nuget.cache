@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OqpkRFbn0G+nHT9HCfsser8oh1hsXJPxzLyHPxRlV8/gneCqPBv2nIxkFrCWuJC22dYitVSX1tuM/xB2bYFpyQ==",
+  "dgSpecHash": "zHgy+MdvTr3+HhxnyILCHRgiClQORM9/xURATiHz1MKGeJExJ+oXv+qq5/obYFeBMMO8RvAhc8HcuU2tmIFEFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edanr\\Desktop\\IdentityServer1\\IdentityServer\\IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\edanr\\Desktop\\IdentityServer2\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edanr\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\edanr\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
